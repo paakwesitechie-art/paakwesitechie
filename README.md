@@ -6,7 +6,7 @@ A modern, responsive artist portfolio website built for **Skylaws**, showcasing 
 
 ## 🌐 Live Preview
 
-https://paakwesitechie.netlify.app
+https://paakwesitechiedev.netlify.app
 
 ---
 
